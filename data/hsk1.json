@@ -13,2402 +13,2702 @@
         {
             "id": "hsk1-char-0001",
             "hanzi": "爱",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "ài",
+            "translation": "Amar",
             "type": "carácter",
-            "notes": null
+            "example": "我爱我的家 (Wǒ ài wǒ de jiā) - Amo mi hogar.",
+            "notes": "Verbo y sustantivo."
         },
         {
             "id": "hsk1-char-0002",
             "hanzi": "八",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "bā",
+            "translation": "Ocho",
             "type": "carácter",
-            "notes": null
+            "example": "我有八个苹果 (Wǒ yǒu bā gè píngguǒ) - Tengo ocho manzanas.",
+            "notes": "Número."
         },
         {
             "id": "hsk1-char-0003",
             "hanzi": "爸",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "bà",
+            "translation": "Papá",
             "type": "carácter",
-            "notes": null
+            "example": "我爸爸是医生 (Wǒ bàba shì yīshēng) - Mi papá es médico.",
+            "notes": "Se usa generalmente en la forma duplicada 爸爸."
         },
         {
             "id": "hsk1-char-0004",
             "hanzi": "吧",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "bā",
+            "translation": "Partícula (sugerencia, duda)",
             "type": "carácter",
-            "notes": null
+            "example": "我们走吧 (Wǒmen zǒu ba) - Vámonos.",
+            "notes": "Partícula modal."
         },
         {
             "id": "hsk1-char-0005",
             "hanzi": "白",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "bái",
+            "translation": "Blanco",
             "type": "carácter",
-            "notes": null
+            "example": "这是一张白纸 (Zhè shì yī zhāng bái zhǐ) - Esto es un papel blanco.",
+            "notes": "Color."
         },
         {
             "id": "hsk1-char-0006",
             "hanzi": "百",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "bǎi",
+            "translation": "Cien / Centenar",
             "type": "carácter",
-            "notes": null
+            "example": "一百个学生 (Yī bǎi gè xuésheng) - Cien estudiantes.",
+            "notes": "Número."
         },
         {
             "id": "hsk1-char-0007",
             "hanzi": "班",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "bān",
+            "translation": "Clase (grupo de estudiantes)",
             "type": "carácter",
-            "notes": null
+            "example": "我们班有二十个人 (Wǒmen bān yǒu èrshí gè rén) - Nuestra clase tiene veinte personas.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0008",
             "hanzi": "半",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "bàn",
+            "translation": "Medio / Mitad",
             "type": "carácter",
-            "notes": null
+            "example": "一个半苹果 (Yī gè bàn píngguǒ) - Una manzana y media.",
+            "notes": "Adjetivo / Sustantivo."
         },
         {
             "id": "hsk1-char-0009",
             "hanzi": "帮",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "bāng",
+            "translation": "Ayudar",
             "type": "carácter",
-            "notes": null
+            "example": "我帮你 (Wǒ bāng nǐ) - Te ayudo.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0010",
             "hanzi": "包",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "bāo",
+            "translation": "Bolsa / Empaquetar",
             "type": "carácter",
-            "notes": null
+            "example": "这个包很贵 (Zhège bāo hěn guì) - Esta bolsa es muy cara.",
+            "notes": "Sustantivo y verbo."
         },
         {
             "id": "hsk1-char-0011",
             "hanzi": "杯",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "bēi",
+            "translation": "Vaso / Taza",
             "type": "carácter",
-            "notes": null
+            "example": "一杯水 (Yī bēi shuǐ) - Un vaso de agua.",
+            "notes": "Sustantivo y clasificador."
         },
         {
             "id": "hsk1-char-0012",
             "hanzi": "北",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "běi",
+            "translation": "Norte",
             "type": "carácter",
-            "notes": null
+            "example": "北京 (Běijīng) - Capital del Norte.",
+            "notes": "Punto cardinal."
         },
         {
             "id": "hsk1-char-0013",
             "hanzi": "备",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "bèi",
+            "translation": "Preparar",
             "type": "carácter",
-            "notes": "Clasificador para libros y objetos encuadernados."
+            "example": "准备 (zhǔnbèi) - Preparar.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0014",
             "hanzi": "本",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "běn",
+            "translation": "Origen / (clasificador para libros)",
             "type": "carácter",
-            "notes": null
+            "example": "一本书 (Yī běn shū) - Un libro.",
+            "notes": "Clasificador para libros."
         },
         {
             "id": "hsk1-char-0015",
             "hanzi": "比",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "bǐ",
+            "translation": "Comparar",
             "type": "carácter",
-            "notes": null
+            "example": "我比你高 (Wǒ bǐ nǐ gāo) - Soy más alto que tú.",
+            "notes": "Preposición/Verbo."
         },
         {
             "id": "hsk1-char-0016",
             "hanzi": "边",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "biān",
+            "translation": "Lado / Borde",
             "type": "carácter",
-            "notes": null
+            "example": "那边 (nà biān) - Allí / Al lado de allá.",
+            "notes": "Sustantivo de localización."
         },
         {
             "id": "hsk1-char-0017",
             "hanzi": "别",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "bié",
+            "translation": "No (hacer algo) / Otro",
             "type": "carácter",
-            "notes": null
+            "example": "别说话 (Bié shuōhuà) - No hables.",
+            "notes": "Adverbio."
         },
         {
             "id": "hsk1-char-0018",
             "hanzi": "病",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "bìng",
+            "translation": "Enfermedad / Enfermarse",
             "type": "carácter",
-            "notes": null
+            "example": "我生病了 (Wǒ shēngbìng le) - Me enfermé.",
+            "notes": "Sustantivo / Verbo."
         },
         {
             "id": "hsk1-char-0019",
             "hanzi": "不",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "bù",
+            "translation": "No",
             "type": "carácter",
-            "notes": null
+            "example": "我不是学生 (Wǒ bù shì xuésheng) - No soy estudiante.",
+            "notes": "Adverbio de negación."
         },
         {
             "id": "hsk1-char-0020",
             "hanzi": "菜",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "cài",
+            "translation": "Verdura / Plato (comida)",
             "type": "carácter",
-            "notes": null
+            "example": "我喜欢吃中国菜 (Wǒ xǐhuan chī Zhōngguó cài) - Me gusta comer comida china.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0021",
             "hanzi": "茶",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "chá",
+            "translation": "Té",
             "type": "carácter",
-            "notes": null
+            "example": "请喝茶 (Qǐng hē chá) - Por favor, toma té.",
+            "notes": "Bebida."
         },
         {
             "id": "hsk1-char-0022",
             "hanzi": "差",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "chā",
+            "translation": "Faltar / Ser inferior",
             "type": "carácter",
-            "notes": null
+            "example": "差五分八点 (Chà wǔ fēn bā diǎn) - Son ocho menos cinco.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0023",
             "hanzi": "常",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "cháng",
+            "translation": "A menudo / Frecuentemente",
             "type": "carácter",
-            "notes": null
+            "example": "我常去公园 (Wǒ cháng qù gōngyuán) - A menudo voy al parque.",
+            "notes": "Adverbio."
         },
         {
             "id": "hsk1-char-0024",
             "hanzi": "场",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "chǎng",
+            "translation": "Lugar / Campo",
             "type": "carácter",
-            "notes": null
+            "example": "球场 (qiúchǎng) - Cancha de pelota.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0025",
             "hanzi": "唱",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "chàng",
+            "translation": "Cantar",
             "type": "carácter",
-            "notes": null
+            "example": "她会唱一首歌 (Tā huì chàng yī shǒu gē) - Ella sabe cantar una canción.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0026",
             "hanzi": "车",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "chē",
+            "translation": "Coche / Vehículo",
             "type": "carácter",
-            "notes": null
+            "example": "我开车 (Wǒ kāichē) - Conduzco un coche.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0027",
             "hanzi": "吃",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "chī",
+            "translation": "Comer",
             "type": "carácter",
-            "notes": null
+            "example": "你吃饭了吗？(Nǐ chīfàn le ma?) - ¿Ya comiste?",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0028",
             "hanzi": "出",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "chū",
+            "translation": "Salir",
             "type": "carácter",
-            "notes": null
+            "example": "出来 (chūlái) - Salir hacia afuera.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0029",
             "hanzi": "穿",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "chuān",
+            "translation": "Usar (ropa) / Ponerse",
             "type": "carácter",
-            "notes": null
+            "example": "她穿红色的衣服 (Tā chuān hóngsè de yīfu) - Ella viste ropa roja.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0030",
             "hanzi": "床",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "chuáng",
+            "translation": "Cama",
             "type": "carácter",
-            "notes": null
+            "example": "大床 (dà chuáng) - Cama grande.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0031",
             "hanzi": "次",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "cì",
+            "translation": "Vez / (clasificador para acciones)",
             "type": "carácter",
-            "notes": null
+            "example": "我去过一次北京 (Wǒ qùguo yī cì Běijīng) - He ido a Pekín una vez.",
+            "notes": "Clasificador verbal."
         },
         {
             "id": "hsk1-char-0032",
             "hanzi": "从",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "cóng",
+            "translation": "Desde",
             "type": "carácter",
-            "notes": null
+            "example": "从这里 (cóng zhèlǐ) - Desde aquí.",
+            "notes": "Preposición."
         },
         {
             "id": "hsk1-char-0033",
             "hanzi": "错",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "cuò",
+            "translation": "Equivocado / Error",
             "type": "carácter",
-            "notes": null
+            "example": "对不起，我错了 (Duìbuqǐ, wǒ cuò le) - Lo siento, me equivoqué.",
+            "notes": "Adjetivo / Verbo."
         },
         {
             "id": "hsk1-char-0034",
             "hanzi": "答",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "dá",
+            "translation": "Responder",
             "type": "carácter",
-            "notes": null
+            "example": "回答 (huídá) - Responder.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0035",
             "hanzi": "打",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "dǎ",
+            "translation": "Golpear / Hacer (llamada)",
             "type": "carácter",
-            "notes": "Partícula posesiva o de determinación."
+            "example": "打电话 (dǎ diànhuà) - Hacer una llamada.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0036",
             "hanzi": "大",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "dà",
+            "translation": "Grande",
             "type": "carácter",
-            "notes": null
+            "example": "大城市 (dà chéngshì) - Gran ciudad.",
+            "notes": "Adjetivo."
         },
         {
             "id": "hsk1-char-0037",
             "hanzi": "蛋",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "dàn",
+            "translation": "Huevo",
             "type": "carácter",
-            "notes": null
+            "example": "我吃鸡蛋 (Wǒ chī jīdàn) - Como huevos de gallina.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0038",
             "hanzi": "到",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "dào",
+            "translation": "Llegar",
             "type": "carácter",
-            "notes": null
+            "example": "我到学校了 (Wǒ dào xuéxiào le) - Llegué a la escuela.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0039",
             "hanzi": "道",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "dào",
+            "translation": "Camino / Decir",
             "type": "carácter",
-            "notes": null
+            "example": "知道 (zhīdào) - Saber.",
+            "notes": "Sustantivo / Verbo."
         },
         {
             "id": "hsk1-char-0040",
             "hanzi": "得",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "dé",
+            "translation": "Partícula (grado, posibilidad)",
             "type": "carácter",
-            "notes": null
+            "example": "他说得很好 (Tā shuō de hěn hǎo) - Él habla muy bien.",
+            "notes": "Partícula estructural."
         },
         {
             "id": "hsk1-char-0041",
             "hanzi": "地",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "dì",
+            "translation": "(Partícula para adverbios) / Tierra",
             "type": "carácter",
-            "notes": null
+            "example": "高兴地笑 (gāoxìng de xiào) - Reír alegremente.",
+            "notes": "Partícula (adv) / Sustantivo (tierra)."
         },
         {
             "id": "hsk1-char-0042",
             "hanzi": "的",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "de",
+            "translation": "Partícula posesiva / adjetivadora",
             "type": "carácter",
-            "notes": null
+            "example": "我的书 (wǒ de shū) - Mi libro.",
+            "notes": "Partícula estructural."
         },
         {
             "id": "hsk1-char-0043",
             "hanzi": "等",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "děng",
+            "translation": "Esperar / Clase (tipo)",
             "type": "carácter",
-            "notes": null
+            "example": "等等我 (Děng děng wǒ) - Espérame.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0044",
             "hanzi": "弟",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "dì",
+            "translation": "Hermano menor",
             "type": "carácter",
-            "notes": null
+            "example": "弟弟 (dìdi) - Hermano menor.",
+            "notes": "Se usa generalmente en 弟弟."
         },
         {
             "id": "hsk1-char-0045",
             "hanzi": "第",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "dì",
+            "translation": "Prefijo para números ordinales",
             "type": "carácter",
-            "notes": null
+            "example": "第一 (dì-yī) - Primero.",
+            "notes": "Prefijo."
         },
         {
             "id": "hsk1-char-0046",
             "hanzi": "点",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "diǎn",
+            "translation": "Punto / Hora en punto",
             "type": "carácter",
-            "notes": null
+            "example": "一点钟 (yī diǎn zhōng) - La una en punto.",
+            "notes": "Sustantivo / Clasificador."
         },
         {
             "id": "hsk1-char-0047",
             "hanzi": "电",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "diàn",
+            "translation": "Electricidad",
             "type": "carácter",
-            "notes": null
+            "example": "电视 (diànshì) - Televisión.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0048",
             "hanzi": "店",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "diàn",
+            "translation": "Tienda",
             "type": "carácter",
-            "notes": null
+            "example": "书店 (shūdiàn) - Librería.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0049",
             "hanzi": "东",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "dōng",
+            "translation": "Este",
             "type": "carácter",
-            "notes": null
+            "example": "东边 (dōngbian) - Al este.",
+            "notes": "Punto cardinal."
         },
         {
             "id": "hsk1-char-0050",
             "hanzi": "动",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "dòng",
+            "translation": "Mover / Accionar",
             "type": "carácter",
-            "notes": null
+            "example": "运动 (yùndòng) - Deporte / Moverse.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0051",
             "hanzi": "都",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "dū",
+            "translation": "Todo / Ambos",
             "type": "carácter",
-            "notes": null
+            "example": "我们都喜欢喝茶 (Wǒmen dōu xǐhuan hē chá) - A todos nos gusta tomar té.",
+            "notes": "Adverbio."
         },
         {
             "id": "hsk1-char-0052",
             "hanzi": "读",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "dú",
+            "translation": "Leer",
             "type": "carácter",
-            "notes": null
+            "example": "读书 (dú shū) - Leer un libro.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0053",
             "hanzi": "对",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "duì",
+            "translation": "Correcto / Hacia",
             "type": "carácter",
-            "notes": null
+            "example": "对了！(Duì le!) - ¡Correcto!",
+            "notes": "Adjetivo / Preposición."
         },
         {
             "id": "hsk1-char-0054",
             "hanzi": "多",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "duō",
+            "translation": "Mucho",
             "type": "carácter",
-            "notes": null
+            "example": "很多 (hěn duō) - Muchos.",
+            "notes": "Adjetivo / Adverbio."
         },
         {
             "id": "hsk1-char-0055",
             "hanzi": "饿",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "è",
+            "translation": "Tener hambre",
             "type": "carácter",
-            "notes": "Significa 'hacer' (uso informal)."
+            "example": "我饿了 (Wǒ è le) - Tengo hambre.",
+            "notes": "Adjetivo."
         },
         {
             "id": "hsk1-char-0056",
             "hanzi": "儿",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "ér",
+            "translation": "Hijo / (sufijo)",
             "type": "carácter",
-            "notes": null
+            "example": "儿子 (érzi) - Hijo.",
+            "notes": "Sustantivo / Sufijo."
         },
         {
             "id": "hsk1-char-0057",
             "hanzi": "二",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "èr",
+            "translation": "Dos",
             "type": "carácter",
-            "notes": null
+            "example": "二个 (èr gè) - Dos (cosas).",
+            "notes": "Número."
         },
         {
             "id": "hsk1-char-0058",
             "hanzi": "饭",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "fàn",
+            "translation": "Arroz cocido / Comida",
             "type": "carácter",
-            "notes": "Clasificador general (el más común)."
+            "example": "吃饭 (chīfàn) - Comer.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0059",
             "hanzi": "方",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "fāng",
+            "translation": "Cuadrado / Dirección",
             "type": "carácter",
-            "notes": null
+            "example": "地方 (dìfang) - Lugar.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0060",
             "hanzi": "房",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "fáng",
+            "translation": "Casa / Habitación",
             "type": "carácter",
-            "notes": null
+            "example": "房子 (fángzi) - Casa.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0061",
             "hanzi": "放",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "fàng",
+            "translation": "Poner / Colocar",
             "type": "carácter",
-            "notes": null
+            "example": "放在这里 (fàng zài zhèlǐ) - Ponlo aquí.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0062",
             "hanzi": "飞",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "fēi",
+            "translation": "Volar",
             "type": "carácter",
-            "notes": null
+            "example": "飞机 (fēijī) - Avión.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0063",
             "hanzi": "非",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "fēi",
+            "translation": "No ser / Incorrecto",
             "type": "carácter",
-            "notes": null
+            "example": "非常 (fēicháng) - Muy / Extremadamente.",
+            "notes": "Adverbio (en compuestos)."
         },
         {
             "id": "hsk1-char-0064",
             "hanzi": "分",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "fēn",
+            "translation": "Minuto / Dividir",
             "type": "carácter",
-            "notes": null
+            "example": "五分钟 (wǔ fēn zhōng) - Cinco minutos.",
+            "notes": "Sustantivo / Verbo."
         },
         {
             "id": "hsk1-char-0065",
             "hanzi": "风",
-            "pinyin": "",
-            "translation": "",
+            "pinyin": "fēng",
+            "translation": "Viento",
             "type": "carácter",
-            "notes": null
+            "example": "大风 (dà fēng) - Viento fuerte.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0066",
-            "hanzi": "干",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "服",
+            "pinyin": "fú",
+            "translation": "Ropa",
             "type": "carácter",
-            "notes": null
+            "example": "衣服 (yīfu) - Ropa.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0067",
-            "hanzi": "高",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "干",
+            "pinyin": "gān",
+            "translation": "Seco / Hacer",
             "type": "carácter",
-            "notes": null
+            "example": "干杯 (gānbēi) - Brindis / 'Fondo blanco'.",
+            "notes": "Adjetivo / Verbo."
         },
         {
             "id": "hsk1-char-0068",
-            "hanzi": "告",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "高",
+            "pinyin": "gāo",
+            "translation": "Alto",
             "type": "carácter",
-            "notes": null
+            "example": "高兴 (gāoxìng) - Feliz / Contento.",
+            "notes": "Adjetivo."
         },
         {
             "id": "hsk1-char-0069",
-            "hanzi": "哥",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "告",
+            "pinyin": "gào",
+            "translation": "Decir / Informar",
             "type": "carácter",
-            "notes": null
+            "example": "告诉 (gàosu) - Decir a alguien.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0070",
-            "hanzi": "歌",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "哥",
+            "pinyin": "gē",
+            "translation": "Hermano mayor",
             "type": "carácter",
-            "notes": null
+            "example": "哥哥 (gēge) - Hermano mayor.",
+            "notes": "Se usa generalmente en 哥哥."
         },
         {
             "id": "hsk1-char-0071",
-            "hanzi": "个",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "歌",
+            "pinyin": "gē",
+            "translation": "Canción",
             "type": "carácter",
-            "notes": null
+            "example": "唱歌 (chànggē) - Cantar.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0072",
-            "hanzi": "给",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "个",
+            "pinyin": "gè",
+            "translation": "Clasificador general",
             "type": "carácter",
-            "notes": null
+            "example": "一个人 (yī gè rén) - Una persona.",
+            "notes": "Clasificador."
         },
         {
             "id": "hsk1-char-0073",
-            "hanzi": "跟",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "给",
+            "pinyin": "gěi",
+            "translation": "Dar",
             "type": "carácter",
-            "notes": null
+            "example": "给我一本书 (Gěi wǒ yī běn shū) - Dame un libro.",
+            "notes": "Verbo / Preposición."
         },
         {
             "id": "hsk1-char-0074",
-            "hanzi": "工",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "跟",
+            "pinyin": "gēn",
+            "translation": "Con / Seguir",
             "type": "carácter",
-            "notes": null
+            "example": "跟我来 (gēn wǒ lái) - Ven conmigo.",
+            "notes": "Preposición / Verbo."
         },
         {
             "id": "hsk1-char-0075",
-            "hanzi": "关",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "工",
+            "pinyin": "gōng",
+            "translation": "Trabajo",
             "type": "carácter",
-            "notes": null
+            "example": "工作 (gōngzuò) - Trabajar.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0076",
-            "hanzi": "馆",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "关",
+            "pinyin": "guān",
+            "translation": "Cerrar / Apagar",
             "type": "carácter",
-            "notes": null
+            "example": "关门 (guān mén) - Cerrar la puerta.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0077",
-            "hanzi": "贵",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "馆",
+            "pinyin": "guǎn",
+            "translation": "Local / Establecimiento",
             "type": "carácter",
-            "notes": null
+            "example": "饭馆 (fànguǎn) - Restaurante.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0078",
-            "hanzi": "国",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "贵",
+            "pinyin": "guì",
+            "translation": "Caro",
             "type": "carácter",
-            "notes": null
+            "example": "太贵了 (Tài guì le) - Muy caro.",
+            "notes": "Adjetivo."
         },
         {
             "id": "hsk1-char-0079",
-            "hanzi": "果",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "国",
+            "pinyin": "guó",
+            "translation": "País",
             "type": "carácter",
-            "notes": null
+            "example": "中国 (Zhōngguó) - China.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0080",
-            "hanzi": "过",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "果",
+            "pinyin": "guǒ",
+            "translation": "Fruta",
             "type": "carácter",
-            "notes": null
+            "example": "水果 (shuǐguǒ) - Fruta.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0081",
-            "hanzi": "还",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "过",
+            "pinyin": "guò",
+            "translation": "Pasar / Partícula de experiencia",
             "type": "carácter",
-            "notes": null
+            "example": "我去过中国 (Wǒ qùguo Zhōngguó) - He estado en China.",
+            "notes": "Verbo / Partícula."
         },
         {
             "id": "hsk1-char-0082",
-            "hanzi": "孩",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "还",
+            "pinyin": "huán",
+            "translation": "Aún / También",
             "type": "carácter",
-            "notes": null
+            "example": "我还没有吃饭 (Wǒ hái méiyǒu chīfàn) - Aún no he comido.",
+            "notes": "Adverbio."
         },
         {
             "id": "hsk1-char-0083",
-            "hanzi": "汉",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "孩",
+            "pinyin": "hái",
+            "translation": "Niño",
             "type": "carácter",
-            "notes": null
+            "example": "孩子 (háizi) - Niño(s).",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0084",
-            "hanzi": "好",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "汉",
+            "pinyin": "hàn",
+            "translation": "Han / Chino",
             "type": "carácter",
-            "notes": null
+            "example": "汉语 (Hànyǔ) - Idioma chino.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0085",
-            "hanzi": "号",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "好",
+            "pinyin": "hǎo",
+            "translation": "Bueno / Bien",
             "type": "carácter",
-            "notes": null
+            "example": "很好 (hěn hǎo) - Muy bien.",
+            "notes": "Adjetivo."
         },
         {
             "id": "hsk1-char-0086",
-            "hanzi": "喝",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "号",
+            "pinyin": "hào",
+            "translation": "Número / Día del mes",
             "type": "carácter",
-            "notes": null
+            "example": "五月五号 (Wǔ yuè wǔ hào) - 5 de mayo.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0087",
-            "hanzi": "和",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "喝",
+            "pinyin": "hē",
+            "translation": "Beber",
             "type": "carácter",
-            "notes": null
+            "example": "喝水 (hē shuǐ) - Beber agua.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0088",
-            "hanzi": "很",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "和",
+            "pinyin": "hé",
+            "translation": "Y / Con",
             "type": "carácter",
-            "notes": null
+            "example": "我和你 (wǒ hé nǐ) - Tú y yo.",
+            "notes": "Conjunción."
         },
         {
             "id": "hsk1-char-0089",
-            "hanzi": "后",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "很",
+            "pinyin": "hěn",
+            "translation": "Muy",
             "type": "carácter",
-            "notes": null
+            "example": "很好 (hěn hǎo) - Muy bien.",
+            "notes": "Adverbio."
         },
         {
             "id": "hsk1-char-0090",
-            "hanzi": "候",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "后",
+            "pinyin": "hòu",
+            "translation": "Detrás / Después",
             "type": "carácter",
-            "notes": null
+            "example": "后来 (hòulái) - Después.",
+            "notes": "Sustantivo localizador."
         },
         {
             "id": "hsk1-char-0091",
-            "hanzi": "花",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "候",
+            "pinyin": "hòu",
+            "translation": "Tiempo / Condición",
             "type": "carácter",
-            "notes": null
+            "example": "时候 (shíhou) - Momento / Hora.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0092",
-            "hanzi": "话",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "花",
+            "pinyin": "huā",
+            "translation": "Flor / Gastar",
             "type": "carácter",
-            "notes": null
+            "example": "花钱 (huā qián) - Gastar dinero.",
+            "notes": "Sustantivo / Verbo."
         },
         {
             "id": "hsk1-char-0093",
-            "hanzi": "坏",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "话",
+            "pinyin": "huà",
+            "translation": "Habla / Palabra",
             "type": "carácter",
-            "notes": null
+            "example": "说话 (shuōhuà) - Hablar.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0094",
-            "hanzi": "欢",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "坏",
+            "pinyin": "huài",
+            "translation": "Malo / Estropeado",
             "type": "carácter",
-            "notes": "Clasificador para pedazos, trozos o dinero (coloquial)."
+            "example": "我手机坏了 (Wǒ shǒujī huài le) - Mi móvil se estropeó.",
+            "notes": "Adjetivo."
         },
         {
             "id": "hsk1-char-0095",
-            "hanzi": "回",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "欢",
+            "pinyin": "huān",
+            "translation": "Alegre / Contento",
             "type": "carácter",
-            "notes": null
+            "example": "喜欢 (xǐhuan) - Gustar.",
+            "notes": "Verbo (en compuestos)."
         },
         {
             "id": "hsk1-char-0096",
-            "hanzi": "会",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "回",
+            "pinyin": "huí",
+            "translation": "Regresar / Volver",
             "type": "carácter",
-            "notes": null
+            "example": "回家 (huí jiā) - Volver a casa.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0097",
-            "hanzi": "火",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "会",
+            "pinyin": "huì",
+            "translation": "Poder / Saber / Reunión",
             "type": "carácter",
-            "notes": null
+            "example": "我会说中文 (Wǒ huì shuō Zhōngwén) - Sé hablar chino.",
+            "notes": "Verbo modal / Sustantivo."
         },
         {
             "id": "hsk1-char-0098",
-            "hanzi": "机",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "火",
+            "pinyin": "huǒ",
+            "translation": "Fuego",
             "type": "carácter",
-            "notes": "Marcador de aspecto (indica cambio de estado o acción completada)."
+            "example": "火车 (huǒchē) - Tren.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0099",
-            "hanzi": "鸡",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "机",
+            "pinyin": "jī",
+            "translation": "Máquina",
             "type": "carácter",
-            "notes": null
+            "example": "飞机 (fēijī) - Avión.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0100",
-            "hanzi": "几",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "鸡",
+            "pinyin": "jī",
+            "translation": "Pollo / Gallina",
             "type": "carácter",
-            "notes": null
+            "example": "鸡肉 (jīròu) - Carne de pollo.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0101",
-            "hanzi": "记",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "几",
+            "pinyin": "jǐ",
+            "translation": "¿Cuántos? / Algunos",
             "type": "carácter",
-            "notes": "Sustantivo localizador (dentro)."
+            "example": "几个？(jǐ gè?) - ¿Cuántos?",
+            "notes": "Pronombre interrogativo."
         },
         {
             "id": "hsk1-char-0102",
-            "hanzi": "家",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "记",
+            "pinyin": "jì",
+            "translation": "Recordar / Anotar",
             "type": "carácter",
-            "notes": null
+            "example": "记住 (jìzhù) - Recordar.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0103",
-            "hanzi": "假",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "家",
+            "pinyin": "jiā",
+            "translation": "Hogar / Familia",
             "type": "carácter",
-            "notes": null
+            "example": "回家 (huí jiā) - Volver a casa.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0104",
-            "hanzi": "间",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "假",
+            "pinyin": "jiǎ",
+            "translation": "FALSO",
             "type": "carácter",
-            "notes": null
+            "example": "假钱 (jiǎ qián) - Dinero falso.",
+            "notes": "Adjetivo."
         },
         {
             "id": "hsk1-char-0105",
-            "hanzi": "见",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "间",
+            "pinyin": "jiān",
+            "translation": "Entre / (clasificador para habitaciones)",
             "type": "carácter",
-            "notes": null
+            "example": "房间 (fángjiān) - Habitación.",
+            "notes": "Sustantivo / Clasificador."
         },
         {
             "id": "hsk1-char-0106",
-            "hanzi": "教",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "见",
+            "pinyin": "jiàn",
+            "translation": "Ver / Encontrarse",
             "type": "carácter",
-            "notes": "Partícula interrogativa para preguntas de sí/no."
+            "example": "再见 (zàijiàn) - Adiós (hasta vernos).",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0107",
-            "hanzi": "叫",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "教",
+            "pinyin": "jiào",
+            "translation": "Enseñar",
             "type": "carácter",
-            "notes": null
+            "example": "老师教中文 (Lǎoshī jiào Zhōngwén) - El profesor enseña chino.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0108",
-            "hanzi": "觉",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "叫",
+            "pinyin": "jiào",
+            "translation": "Llamar / Llamarse",
             "type": "carácter",
-            "notes": null
+            "example": "你叫什么名字？(Nǐ jiào shénme míngzi?) - ¿Cómo te llamas?",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0109",
-            "hanzi": "姐",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "觉",
+            "pinyin": "jué",
+            "translation": "Dormir (sueño)",
             "type": "carácter",
-            "notes": null
+            "example": "睡觉 (shuìjiào) - Dormir.",
+            "notes": "Sustantivo (en compuestos)."
         },
         {
             "id": "hsk1-char-0110",
-            "hanzi": "介",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "姐",
+            "pinyin": "jiě",
+            "translation": "Hermana mayor",
             "type": "carácter",
-            "notes": null
+            "example": "姐姐 (jiějie) - Hermana mayor.",
+            "notes": "Se usa generalmente en 姐姐."
         },
         {
             "id": "hsk1-char-0111",
-            "hanzi": "今",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "介",
+            "pinyin": "jiè",
+            "translation": "Entre / Presentar",
             "type": "carácter",
-            "notes": null
+            "example": "介绍 (jièshào) - Presentar.",
+            "notes": "Verbo (en compuestos)."
         },
         {
             "id": "hsk1-char-0112",
-            "hanzi": "进",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "今",
+            "pinyin": "jīn",
+            "translation": "Ahora / Presente",
             "type": "carácter",
-            "notes": null
+            "example": "今天 (jīntiān) - Hoy.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0113",
-            "hanzi": "京",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "进",
+            "pinyin": "jìn",
+            "translation": "Entrar",
             "type": "carácter",
-            "notes": null
+            "example": "进来 (jìnlái) - Entrar.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0114",
-            "hanzi": "净",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "京",
+            "pinyin": "jīng",
+            "translation": "Capital (Pekín)",
             "type": "carácter",
-            "notes": null
+            "example": "北京 (Běijīng) - Pekín.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0115",
-            "hanzi": "九",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "净",
+            "pinyin": "jìng",
+            "translation": "Limpio / Neto",
             "type": "carácter",
-            "notes": null
+            "example": "干净 (gānjìng) - Limpio.",
+            "notes": "Adjetivo."
         },
         {
             "id": "hsk1-char-0116",
-            "hanzi": "就",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "九",
+            "pinyin": "jiǔ",
+            "translation": "Nueve",
             "type": "carácter",
-            "notes": null
+            "example": "九个 (jiǔ gè) - Nueve (cosas).",
+            "notes": "Número."
         },
         {
             "id": "hsk1-char-0117",
-            "hanzi": "开",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "就",
+            "pinyin": "jiù",
+            "translation": "Entonces / Justamente",
             "type": "carácter",
-            "notes": null
+            "example": "我就来 (Wǒ jiù lái) - Ya voy.",
+            "notes": "Adverbio."
         },
         {
             "id": "hsk1-char-0118",
-            "hanzi": "看",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "开",
+            "pinyin": "kāi",
+            "translation": "Abrir / Conducir",
             "type": "carácter",
-            "notes": null
+            "example": "开门 (kāi mén) - Abrir la puerta.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0119",
-            "hanzi": "考",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "看",
+            "pinyin": "kàn",
+            "translation": "Mirar / Leer",
             "type": "carácter",
-            "notes": null
+            "example": "看书 (kàn shū) - Leer un libro.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0120",
-            "hanzi": "渴",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "考",
+            "pinyin": "kǎo",
+            "translation": "Examinar / Probar",
             "type": "carácter",
-            "notes": null
+            "example": "考试 (kǎoshì) - Examen.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0121",
-            "hanzi": "客",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "渴",
+            "pinyin": "kě",
+            "translation": "Tener sed",
             "type": "carácter",
-            "notes": "Partícula modal para preguntas de rebote o énfasis."
+            "example": "我渴了 (Wǒ kě le) - Tengo sed.",
+            "notes": "Adjetivo."
         },
         {
             "id": "hsk1-char-0122",
-            "hanzi": "课",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "客",
+            "pinyin": "kè",
+            "translation": "Invitado / Cliente",
             "type": "carácter",
-            "notes": null
+            "example": "客人 (kèrén) - Invitado.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0123",
-            "hanzi": "口",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "课",
+            "pinyin": "kè",
+            "translation": "Clase / Lección",
             "type": "carácter",
-            "notes": null
+            "example": "上课 (shàngkè) - Asistir a clase.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0124",
-            "hanzi": "块",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "口",
+            "pinyin": "kǒu",
+            "translation": "Boca / (clasificador para personas)",
             "type": "carácter",
-            "notes": null
+            "example": "一口 (yī kǒu) - Un bocado.",
+            "notes": "Sustantivo / Clasificador."
         },
         {
             "id": "hsk1-char-0125",
-            "hanzi": "快",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "块",
+            "pinyin": "kuài",
+            "translation": "Pedazo / (medida para dinero)",
             "type": "carácter",
-            "notes": null
+            "example": "一块钱 (yī kuài qián) - Un yuan / Un dólar.",
+            "notes": "Sustantivo / Clasificador."
         },
         {
             "id": "hsk1-char-0126",
-            "hanzi": "来",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "快",
+            "pinyin": "kuài",
+            "translation": "Rápido / Apresurado",
             "type": "carácter",
-            "notes": null
+            "example": "快点儿！(Kuài diǎnr!) - ¡Date prisa!",
+            "notes": "Adjetivo."
         },
         {
             "id": "hsk1-char-0127",
-            "hanzi": "老",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "来",
+            "pinyin": "lái",
+            "translation": "Venir",
             "type": "carácter",
-            "notes": null
+            "example": "来我家 (lái wǒ jiā) - Ven a mi casa.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0128",
-            "hanzi": "了",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "老",
+            "pinyin": "lǎo",
+            "translation": "Viejo / Siempre",
             "type": "carácter",
-            "notes": null
+            "example": "老师 (lǎoshī) - Profesor.",
+            "notes": "Adjetivo / Prefijo."
         },
         {
             "id": "hsk1-char-0129",
-            "hanzi": "累",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "了",
+            "pinyin": "le",
+            "translation": "Partícula de aspecto perfectivo / cambio",
             "type": "carácter",
-            "notes": null
+            "example": "我吃了 (Wǒ chī le) - Ya comí.",
+            "notes": "Partícula."
         },
         {
             "id": "hsk1-char-0130",
-            "hanzi": "冷",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "累",
+            "pinyin": "lěi",
+            "translation": "Cansado",
             "type": "carácter",
-            "notes": null
+            "example": "我很累 (Wǒ hěn lèi) - Estoy muy cansado.",
+            "notes": "Adjetivo."
         },
         {
             "id": "hsk1-char-0131",
-            "hanzi": "里",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "冷",
+            "pinyin": "lěng",
+            "translation": "Frío",
             "type": "carácter",
-            "notes": null
+            "example": "今天很冷 (Jīntiān hěn lěng) - Hoy hace frío.",
+            "notes": "Adjetivo."
         },
         {
             "id": "hsk1-char-0132",
-            "hanzi": "两",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "里",
+            "pinyin": "lǐ",
+            "translation": "Dentro",
             "type": "carácter",
-            "notes": null
+            "example": "学校里 (xuéxiào lǐ) - Dentro de la escuela.",
+            "notes": "Sustantivo localizador."
         },
         {
             "id": "hsk1-char-0133",
-            "hanzi": "零",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "两",
+            "pinyin": "liǎng",
+            "translation": "Dos (para cantidades)",
             "type": "carácter",
-            "notes": null
+            "example": "两个人 (liǎng gè rén) - Dos personas.",
+            "notes": "Número."
         },
         {
             "id": "hsk1-char-0134",
-            "hanzi": "六",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "零",
+            "pinyin": "líng",
+            "translation": "Cero",
             "type": "carácter",
-            "notes": null
+            "example": "一百零一 (yī bǎi líng yī) - Ciento uno.",
+            "notes": "Número."
         },
         {
             "id": "hsk1-char-0135",
-            "hanzi": "楼",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "六",
+            "pinyin": "liù",
+            "translation": "Seis",
             "type": "carácter",
-            "notes": null
+            "example": "六个 (liù gè) - Seis (cosas).",
+            "notes": "Número."
         },
         {
             "id": "hsk1-char-0136",
-            "hanzi": "路",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "楼",
+            "pinyin": "lóu",
+            "translation": "Edificio / Piso",
             "type": "carácter",
-            "notes": null
+            "example": "上楼 (shàng lóu) - Subir las escaleras.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0137",
-            "hanzi": "妈",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "路",
+            "pinyin": "lù",
+            "translation": "Camino / Ruta",
             "type": "carácter",
-            "notes": null
+            "example": "走路 (zǒulù) - Caminar.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0138",
-            "hanzi": "马",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "妈",
+            "pinyin": "mā",
+            "translation": "Mamá",
             "type": "carácter",
-            "notes": null
+            "example": "妈妈 (māma) - Mamá.",
+            "notes": "Se usa generalmente en 妈妈."
         },
         {
             "id": "hsk1-char-0139",
-            "hanzi": "吗",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "马",
+            "pinyin": "mǎ",
+            "translation": "Caballo",
             "type": "carácter",
-            "notes": null
+            "example": "马上 (mǎshàng) - Inmediatamente.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0140",
-            "hanzi": "买",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "吗",
+            "pinyin": "ma",
+            "translation": "Partícula interrogativa",
             "type": "carácter",
-            "notes": null
+            "example": "你好吗？(Nǐ hǎo ma?) - ¿Cómo estás?",
+            "notes": "Partícula."
         },
         {
             "id": "hsk1-char-0141",
-            "hanzi": "慢",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "买",
+            "pinyin": "mǎi",
+            "translation": "Comprar",
             "type": "carácter",
-            "notes": null
+            "example": "买东西 (mǎi dōngxi) - Comprar cosas.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0142",
-            "hanzi": "忙",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "慢",
+            "pinyin": "màn",
+            "translation": "Lento",
             "type": "carácter",
-            "notes": "Sustantivo localizador (arriba / anterior)."
+            "example": "慢走 (màn zǒu) - Ve despacio / Cuídate.",
+            "notes": "Adjetivo."
         },
         {
             "id": "hsk1-char-0143",
-            "hanzi": "毛",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "忙",
+            "pinyin": "máng",
+            "translation": "Ocupado",
             "type": "carácter",
-            "notes": null
+            "example": "我很忙 (Wǒ hěn máng) - Estoy muy ocupado.",
+            "notes": "Adjetivo."
         },
         {
             "id": "hsk1-char-0144",
-            "hanzi": "么",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "毛",
+            "pinyin": "máo",
+            "translation": "Pelo / Lana",
             "type": "carácter",
-            "notes": null
+            "example": "毛笔 (máobǐ) - Pincel.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0145",
-            "hanzi": "没",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "么",
+            "pinyin": "me",
+            "translation": "Sufijo interrogativo",
             "type": "carácter",
-            "notes": null
+            "example": "什么 (shénme) - ¿Qué?",
+            "notes": "Sufijo."
         },
         {
             "id": "hsk1-char-0146",
-            "hanzi": "妹",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "没",
+            "pinyin": "méi",
+            "translation": "No tener / No (haber)",
             "type": "carácter",
-            "notes": null
+            "example": "没有 (méiyǒu) - No tener.",
+            "notes": "Adverbio."
         },
         {
             "id": "hsk1-char-0147",
-            "hanzi": "门",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "妹",
+            "pinyin": "mèi",
+            "translation": "Hermana menor",
             "type": "carácter",
-            "notes": null
+            "example": "妹妹 (mèimei) - Hermana menor.",
+            "notes": "Se usa generalmente en 妹妹."
         },
         {
             "id": "hsk1-char-0148",
-            "hanzi": "们",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "门",
+            "pinyin": "mén",
+            "translation": "Puerta",
             "type": "carácter",
-            "notes": null
+            "example": "开门 (kāi mén) - Abrir la puerta.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0149",
-            "hanzi": "米",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "们",
+            "pinyin": "men",
+            "translation": "(Sufijo de plural)",
             "type": "carácter",
-            "notes": null
+            "example": "我们 (wǒmen) - Nosotros.",
+            "notes": "Sufijo."
         },
         {
             "id": "hsk1-char-0150",
-            "hanzi": "面",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "米",
+            "pinyin": "mǐ",
+            "translation": "Arroz / Metro",
             "type": "carácter",
-            "notes": null
+            "example": "米饭 (mǐfàn) - Arroz cocido.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0151",
-            "hanzi": "名",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "面",
+            "pinyin": "miàn",
+            "translation": "Cara / Superficie / Fideos",
             "type": "carácter",
-            "notes": null
+            "example": "见面 (jiànmiàn) - Encontrarse.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0152",
-            "hanzi": "明",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "名",
+            "pinyin": "míng",
+            "translation": "Nombre / Fama",
             "type": "carácter",
-            "notes": null
+            "example": "名字 (míngzi) - Nombre.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0153",
-            "hanzi": "拿",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "明",
+            "pinyin": "míng",
+            "translation": "Brillante / Claro / Mañana",
             "type": "carácter",
-            "notes": null
+            "example": "明天 (míngtiān) - Mañana.",
+            "notes": "Adjetivo / Sustantivo."
         },
         {
             "id": "hsk1-char-0154",
-            "hanzi": "哪",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "拿",
+            "pinyin": "ná",
+            "translation": "Tomar / Llevar",
             "type": "carácter",
-            "notes": null
+            "example": "拿书 (ná shū) - Tomar un libro.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0155",
-            "hanzi": "那",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "哪",
+            "pinyin": "nǎ",
+            "translation": "¿Dónde? / ¿Cuál?",
             "type": "carácter",
-            "notes": null
+            "example": "哪里？(nǎlǐ?) - ¿Dónde?",
+            "notes": "Pronombre interrogativo."
         },
         {
             "id": "hsk1-char-0156",
-            "hanzi": "奶",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "那",
+            "pinyin": "nà",
+            "translation": "Ese / Aquel",
             "type": "carácter",
-            "notes": null
+            "example": "那个人 (nà gè rén) - Esa persona.",
+            "notes": "Pronombre demostrativo."
         },
         {
             "id": "hsk1-char-0157",
-            "hanzi": "男",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "奶",
+            "pinyin": "nǎi",
+            "translation": "Leche / Pecho",
             "type": "carácter",
-            "notes": null
+            "example": "牛奶 (niúnǎi) - Leche de vaca.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0158",
-            "hanzi": "南",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "男",
+            "pinyin": "nán",
+            "translation": "Hombre / Masculino",
             "type": "carácter",
-            "notes": null
+            "example": "男人 (nánrén) - Hombre.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0159",
-            "hanzi": "难",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "南",
+            "pinyin": "nán",
+            "translation": "Sur",
             "type": "carácter",
-            "notes": null
+            "example": "南边 (nánbian) - Al sur.",
+            "notes": "Punto cardinal."
         },
         {
             "id": "hsk1-char-0160",
-            "hanzi": "脑",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "难",
+            "pinyin": "nán",
+            "translation": "Difícil",
             "type": "carácter",
-            "notes": null
+            "example": "很难 (hěn nán) - Muy difícil.",
+            "notes": "Adjetivo."
         },
         {
             "id": "hsk1-char-0161",
-            "hanzi": "呢",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "脑",
+            "pinyin": "nǎo",
+            "translation": "Cerebro / Mente",
             "type": "carácter",
-            "notes": null
+            "example": "电脑 (diànnǎo) - Computadora.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0162",
-            "hanzi": "能",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "呢",
+            "pinyin": "ne",
+            "translation": "Partícula interrogativa (eco)",
             "type": "carácter",
-            "notes": null
+            "example": "你呢？(Nǐ ne?) - ¿Y tú?",
+            "notes": "Partícula modal."
         },
         {
             "id": "hsk1-char-0163",
-            "hanzi": "你",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "能",
+            "pinyin": "néng",
+            "translation": "Poder (habilidad / permiso)",
             "type": "carácter",
-            "notes": null
+            "example": "我能进去吗？(Wǒ néng jìnqù ma?) - ¿Puedo entrar?",
+            "notes": "Verbo modal."
         },
         {
             "id": "hsk1-char-0164",
-            "hanzi": "年",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "你",
+            "pinyin": "nǐ",
+            "translation": "Tú",
             "type": "carácter",
-            "notes": null
+            "example": "你好 (nǐ hǎo) - Hola.",
+            "notes": "Pronombre."
         },
         {
             "id": "hsk1-char-0165",
-            "hanzi": "您",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "年",
+            "pinyin": "nián",
+            "translation": "Año",
             "type": "carácter",
-            "notes": null
+            "example": "今年 (jīnnián) - Este año.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0166",
-            "hanzi": "牛",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "您",
+            "pinyin": "nín",
+            "translation": "Usted (cortés)",
             "type": "carácter",
-            "notes": null
+            "example": "您好 (nín hǎo) - Hola (formal).",
+            "notes": "Pronombre."
         },
         {
             "id": "hsk1-char-0167",
-            "hanzi": "女",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "牛",
+            "pinyin": "niú",
+            "translation": "Vaca / Buey",
             "type": "carácter",
-            "notes": null
+            "example": "牛肉 (niúròu) - Carne de res.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0168",
-            "hanzi": "旁",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "女",
+            "pinyin": "nǚ",
+            "translation": "Mujer / Femenino",
             "type": "carácter",
-            "notes": null
+            "example": "女人 (nǚrén) - Mujer.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0169",
-            "hanzi": "跑",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "旁",
+            "pinyin": "páng",
+            "translation": "Lado / Costado",
             "type": "carácter",
-            "notes": null
+            "example": "旁边 (pángbiān) - Al lado.",
+            "notes": "Sustantivo localizador."
         },
         {
             "id": "hsk1-char-0170",
-            "hanzi": "朋",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "跑",
+            "pinyin": "pǎo",
+            "translation": "Correr",
             "type": "carácter",
-            "notes": null
+            "example": "跑步 (pǎobù) - Correr.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0171",
-            "hanzi": "票",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "朋",
+            "pinyin": "péng",
+            "translation": "Amigo",
             "type": "carácter",
-            "notes": "Sustantivo localizador (debajo / siguiente)."
+            "example": "朋友 (péngyou) - Amigo.",
+            "notes": "Sustantivo (en compuestos)."
         },
         {
             "id": "hsk1-char-0172",
-            "hanzi": "七",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "票",
+            "pinyin": "piào",
+            "translation": "Boleto / Entrada",
             "type": "carácter",
-            "notes": null
+            "example": "车票 (chēpiào) - Boleto de autobús/tren.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0173",
-            "hanzi": "期",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "七",
+            "pinyin": "qī",
+            "translation": "Siete",
             "type": "carácter",
-            "notes": null
+            "example": "七个 (qī gè) - Siete (cosas).",
+            "notes": "Número."
         },
         {
             "id": "hsk1-char-0174",
-            "hanzi": "起",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "期",
+            "pinyin": "qī",
+            "translation": "Período / Fecha",
             "type": "carácter",
-            "notes": null
+            "example": "星期 (xīngqī) - Semana.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0175",
-            "hanzi": "气",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "起",
+            "pinyin": "qǐ",
+            "translation": "Levantarse / Empezar",
             "type": "carácter",
-            "notes": null
+            "example": "起床 (qǐchuáng) - Levantarse de la cama.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0176",
-            "hanzi": "汽",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "气",
+            "pinyin": "qì",
+            "translation": "Aire / Gas / Energía",
             "type": "carácter",
-            "notes": null
+            "example": "天气 (tiānqì) - Clima.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0177",
-            "hanzi": "前",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "汽",
+            "pinyin": "qì",
+            "translation": "Vapor / Gas",
             "type": "carácter",
-            "notes": null
+            "example": "汽车 (qìchē) - Automóvil.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0178",
-            "hanzi": "钱",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "前",
+            "pinyin": "qián",
+            "translation": "Delante / Anterior",
             "type": "carácter",
-            "notes": null
+            "example": "前面 (qiánmian) - Enfrente.",
+            "notes": "Sustantivo localizador."
         },
         {
             "id": "hsk1-char-0179",
-            "hanzi": "请",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "钱",
+            "pinyin": "qián",
+            "translation": "Dinero",
             "type": "carácter",
-            "notes": null
+            "example": "多少钱？(Duōshao qián?) - ¿Cuánto cuesta?",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0180",
-            "hanzi": "球",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "请",
+            "pinyin": "qǐng",
+            "translation": "Por favor / Invitar",
             "type": "carácter",
-            "notes": null
+            "example": "请进 (qǐng jìn) - Adelante, por favor.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0181",
-            "hanzi": "去",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "球",
+            "pinyin": "qiú",
+            "translation": "Pelota / Bola",
             "type": "carácter",
-            "notes": null
+            "example": "打球 (dǎ qiú) - Jugar a la pelota.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0182",
-            "hanzi": "热",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "去",
+            "pinyin": "qù",
+            "translation": "Ir",
             "type": "carácter",
-            "notes": null
+            "example": "去中国 (qù Zhōngguó) - Ir a China.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0183",
-            "hanzi": "人",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "热",
+            "pinyin": "rè",
+            "translation": "Caliente",
             "type": "carácter",
-            "notes": null
+            "example": "天气很热 (Tiānqì hěn rè) - Hace calor.",
+            "notes": "Adjetivo."
         },
         {
             "id": "hsk1-char-0184",
-            "hanzi": "认",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "人",
+            "pinyin": "rén",
+            "translation": "Persona / Gente",
             "type": "carácter",
-            "notes": null
+            "example": "中国人 (Zhōngguó rén) - Chino (persona).",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0185",
-            "hanzi": "日",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "认",
+            "pinyin": "rèn",
+            "translation": "Reconocer",
             "type": "carácter",
-            "notes": null
+            "example": "认识 (rènshi) - Conocer (a alguien).",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0186",
-            "hanzi": "肉",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "日",
+            "pinyin": "rì",
+            "translation": "Día / Sol",
             "type": "carácter",
-            "notes": null
+            "example": "生日 (shēngrì) - Cumpleaños.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0187",
-            "hanzi": "三",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "肉",
+            "pinyin": "ròu",
+            "translation": "Carne",
             "type": "carácter",
-            "notes": null
+            "example": "吃肉 (chī ròu) - Comer carne.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0188",
-            "hanzi": "山",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "三",
+            "pinyin": "sān",
+            "translation": "Tres",
             "type": "carácter",
-            "notes": null
+            "example": "三个 (sān gè) - Tres (cosas).",
+            "notes": "Número."
         },
         {
             "id": "hsk1-char-0189",
-            "hanzi": "商",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "山",
+            "pinyin": "shān",
+            "translation": "Montaña",
             "type": "carácter",
-            "notes": null
+            "example": "山上 (shān shàng) - En la montaña.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0190",
-            "hanzi": "上",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "商",
+            "pinyin": "shāng",
+            "translation": "Comercio / Negocio",
             "type": "carácter",
-            "notes": null
+            "example": "商店 (shāngdiàn) - Tienda.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0191",
-            "hanzi": "少",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "上",
+            "pinyin": "shàng",
+            "translation": "Sobre / (anterior)",
             "type": "carácter",
-            "notes": null
+            "example": "上面 (shàngmian) - Arriba / Encima.",
+            "notes": "Sustantivo localizador."
         },
         {
             "id": "hsk1-char-0192",
-            "hanzi": "绍",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "少",
+            "pinyin": "shǎo",
+            "translation": "Pocos / Faltar",
             "type": "carácter",
-            "notes": null
+            "example": "很少 (hěn shǎo) - Muy pocos.",
+            "notes": "Adjetivo."
         },
         {
             "id": "hsk1-char-0193",
-            "hanzi": "身",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "绍",
+            "pinyin": "shào",
+            "translation": "(Presentar)",
             "type": "carácter",
-            "notes": null
+            "example": "介绍 (jièshào) - Presentar.",
+            "notes": "Solo en compuestos."
         },
         {
             "id": "hsk1-char-0194",
-            "hanzi": "什",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "身",
+            "pinyin": "shēn",
+            "translation": "Cuerpo",
             "type": "carácter",
-            "notes": null
+            "example": "身体 (shēntǐ) - Cuerpo / Salud.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0195",
-            "hanzi": "生",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "什",
+            "pinyin": "shí",
+            "translation": "(Interrogativo)",
             "type": "carácter",
-            "notes": null
+            "example": "什么 (shénme) - ¿Qué?",
+            "notes": "Solo en compuestos."
         },
         {
             "id": "hsk1-char-0196",
-            "hanzi": "师",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "生",
+            "pinyin": "shēng",
+            "translation": "Nacer / Vida / Estudiante",
             "type": "carácter",
-            "notes": null
+            "example": "学生 (xuésheng) - Estudiante.",
+            "notes": "Verbo / Sustantivo."
         },
         {
             "id": "hsk1-char-0197",
-            "hanzi": "十",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "师",
+            "pinyin": "shī",
+            "translation": "Maestro / Experto",
             "type": "carácter",
-            "notes": null
+            "example": "老师 (lǎoshī) - Profesor.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0198",
-            "hanzi": "时",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "十",
+            "pinyin": "shí",
+            "translation": "Diez",
             "type": "carácter",
-            "notes": "Marcador de aspecto continuo (acción en progreso)."
+            "example": "十个 (shí gè) - Diez (cosas).",
+            "notes": "Número."
         },
         {
             "id": "hsk1-char-0199",
-            "hanzi": "识",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "时",
+            "pinyin": "shí",
+            "translation": "Tiempo / Hora",
             "type": "carácter",
-            "notes": null
+            "example": "时间 (shíjiān) - Tiempo.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0200",
-            "hanzi": "事",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "识",
+            "pinyin": "shí",
+            "translation": "Conocer / Saber",
             "type": "carácter",
-            "notes": null
+            "example": "认识 (rènshi) - Conocer.",
+            "notes": "Verbo (en compuestos)."
         },
         {
             "id": "hsk1-char-0201",
-            "hanzi": "试",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "事",
+            "pinyin": "shì",
+            "translation": "Cosa / Asunto / Trabajo",
             "type": "carácter",
-            "notes": null
+            "example": "有事 (yǒu shì) - Tener algo que hacer.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0202",
-            "hanzi": "视",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "试",
+            "pinyin": "#ERROR!",
+            "translation": "Intentar / Probar",
             "type": "carácter",
-            "notes": null
+            "example": "试试 (shìshi) - Probar / Intentar.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0203",
-            "hanzi": "是",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "视",
+            "pinyin": "shì",
+            "translation": "Ver / Mirar",
             "type": "carácter",
-            "notes": null
+            "example": "电视 (diànshì) - Televisión.",
+            "notes": "Sustantivo (en compuestos)."
         },
         {
             "id": "hsk1-char-0204",
-            "hanzi": "手",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "是",
+            "pinyin": "shì",
+            "translation": "Ser (verbo copulativo)",
             "type": "carácter",
-            "notes": null
+            "example": "我是学生 (Wǒ shì xuésheng) - Soy estudiante.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0205",
-            "hanzi": "书",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "手",
+            "pinyin": "shǒu",
+            "translation": "Mano",
             "type": "carácter",
-            "notes": null
+            "example": "手机 (shǒujī) - Teléfono móvil.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0206",
-            "hanzi": "树",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "书",
+            "pinyin": "shū",
+            "translation": "Libro",
             "type": "carácter",
-            "notes": null
+            "example": "看书 (kàn shū) - Leer un libro.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0207",
-            "hanzi": "谁",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "树",
+            "pinyin": "shù",
+            "translation": "Árbol",
             "type": "carácter",
-            "notes": null
+            "example": "大树 (dà shù) - Árbol grande.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0208",
-            "hanzi": "水",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "谁",
+            "pinyin": "shéi",
+            "translation": "Quién",
             "type": "carácter",
-            "notes": null
+            "example": "他是谁？(Tā shì shéi?) - ¿Quién es él?",
+            "notes": "Pronombre interrogativo."
         },
         {
             "id": "hsk1-char-0209",
-            "hanzi": "睡",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "水",
+            "pinyin": "shuǐ",
+            "translation": "Agua",
             "type": "carácter",
-            "notes": null
+            "example": "喝水 (hē shuǐ) - Beber agua.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0210",
-            "hanzi": "说",
-            "pinyin": "",
-            "translation": "",
+            "hanzi": "睡",
+            "pinyin": "shuì",
+            "translation": "Dormir",
             "type": "carácter",
-            "notes": null
+            "example": "睡觉 (shuìjiào) - Dormir.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0211",
-            "hanzi": "四",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "说",
+            "pinyin": "shuō",
+            "translation": "Hablar / Decir",
+            "type": "carácter",
+            "example": "说话 (shuōhuà) - Hablar.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0212",
-            "hanzi": "送",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "四",
+            "pinyin": "sì",
+            "translation": "Cuatro",
+            "type": "carácter",
+            "example": "四个 (sì gè) - Cuatro (cosas).",
+            "notes": "Número."
         },
         {
             "id": "hsk1-char-0213",
-            "hanzi": "诉",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "送",
+            "pinyin": "sòng",
+            "translation": "Entregar / Regalar / Despedir",
+            "type": "carácter",
+            "example": "送我回家 (sòng wǒ huíjiā) - Acompañarme a casa.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0214",
-            "hanzi": "岁",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "诉",
+            "pinyin": "sù",
+            "translation": "Decir / Informar",
+            "type": "carácter",
+            "example": "告诉 (gàosu) - Decir.",
+            "notes": "Verbo (en compuestos)."
         },
         {
             "id": "hsk1-char-0215",
-            "hanzi": "他",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "岁",
+            "pinyin": "suì",
+            "translation": "Año (de edad)",
+            "type": "carácter",
+            "example": "你几岁？(Nǐ jǐ suì?) - ¿Cuántos años tienes?",
+            "notes": "Sustantivo (medida de edad)."
         },
         {
             "id": "hsk1-char-0216",
-            "hanzi": "她",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "他",
+            "pinyin": "tā",
+            "translation": "Él",
+            "type": "carácter",
+            "example": "他是老师 (Tā shì lǎoshī) - Él es profesor.",
+            "notes": "Pronombre."
         },
         {
             "id": "hsk1-char-0217",
-            "hanzi": "太",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "她",
+            "pinyin": "tā",
+            "translation": "Ella",
+            "type": "carácter",
+            "example": "她是医生 (Tā shì yīshēng) - Ella es médica.",
+            "notes": "Pronombre."
         },
         {
             "id": "hsk1-char-0218",
-            "hanzi": "体",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "太",
+            "pinyin": "tài",
+            "translation": "Demasiado / Muy",
+            "type": "carácter",
+            "example": "太好了！(Tài hǎo le!) - ¡Muy bien! / ¡Genial!",
+            "notes": "Adverbio."
         },
         {
             "id": "hsk1-char-0219",
-            "hanzi": "天",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "体",
+            "pinyin": "tǐ",
+            "translation": "Cuerpo",
+            "type": "carácter",
+            "example": "身体 (shēntǐ) - Cuerpo.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0220",
-            "hanzi": "条",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "天",
+            "pinyin": "tiān",
+            "translation": "Día / Cielo",
+            "type": "carácter",
+            "example": "今天 (jīntiān) - Hoy.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0221",
-            "hanzi": "听",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "条",
+            "pinyin": "tiáo",
+            "translation": "(Clasificador para cosas largas)",
+            "type": "carácter",
+            "example": "一条鱼 (yī tiáo yú) - Un pez.",
+            "notes": "Clasificador."
         },
         {
             "id": "hsk1-char-0222",
-            "hanzi": "同",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "听",
+            "pinyin": "tīng",
+            "translation": "Escuchar / Oír",
+            "type": "carácter",
+            "example": "听音乐 (tīng yīnyuè) - Escuchar música.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0223",
-            "hanzi": "图",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "同",
+            "pinyin": "tóng",
+            "translation": "Mismo / Juntos",
+            "type": "carácter",
+            "example": "同事 (tóngshì) - Colega de trabajo.",
+            "notes": "Adjetivo / Adverbio."
         },
         {
             "id": "hsk1-char-0224",
-            "hanzi": "外",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "图",
+            "pinyin": "tú",
+            "translation": "Dibujo / Mapa / Imagen",
+            "type": "carácter",
+            "example": "地图 (dìtú) - Mapa.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0225",
-            "hanzi": "玩",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "外",
+            "pinyin": "wài",
+            "translation": "Fuera / Exterior",
+            "type": "carácter",
+            "example": "外面 (wàimian) - Afuera.",
+            "notes": "Sustantivo localizador."
         },
         {
             "id": "hsk1-char-0226",
-            "hanzi": "晚",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "玩",
+            "pinyin": "wán",
+            "translation": "Jugar / Divertirse",
+            "type": "carácter",
+            "example": "玩电脑 (wán diànnǎo) - Jugar con la computadora.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0227",
-            "hanzi": "网",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "晚",
+            "pinyin": "wǎn",
+            "translation": "Tarde / Noche",
+            "type": "carácter",
+            "example": "晚上 (wǎnshang) - Noche / Tarde-noche.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0228",
-            "hanzi": "忘",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "网",
+            "pinyin": "wǎng",
+            "translation": "Red",
+            "type": "carácter",
+            "example": "上网 (shàngwǎng) - Navegar por internet.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0229",
-            "hanzi": "文",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "忘",
+            "pinyin": "wàng",
+            "translation": "Olvidar",
+            "type": "carácter",
+            "example": "忘记 (wàngjì) - Olvidar.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0230",
-            "hanzi": "问",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "文",
+            "pinyin": "wén",
+            "translation": "Lengua / Escritura / Cultura",
+            "type": "carácter",
+            "example": "中文 (Zhōngwén) - Idioma chino.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0231",
-            "hanzi": "我",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "问",
+            "pinyin": "wèn",
+            "translation": "Preguntar",
+            "type": "carácter",
+            "example": "问题 (wèntí) - Problema / Pregunta.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0232",
-            "hanzi": "五",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "我",
+            "pinyin": "wǒ",
+            "translation": "Yo",
+            "type": "carácter",
+            "example": "我家 (wǒ jiā) - Mi casa.",
+            "notes": "Pronombre."
         },
         {
             "id": "hsk1-char-0233",
-            "hanzi": "午",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "五",
+            "pinyin": "wǔ",
+            "translation": "Cinco",
+            "type": "carácter",
+            "example": "五个 (wǔ gè) - Cinco (cosas).",
+            "notes": "Número."
         },
         {
             "id": "hsk1-char-0234",
-            "hanzi": "西",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "午",
+            "pinyin": "wǔ",
+            "translation": "Mediodía",
+            "type": "carácter",
+            "example": "中午 (zhōngwǔ) - Mediodía.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0235",
-            "hanzi": "息",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "西",
+            "pinyin": "xī",
+            "translation": "Oeste",
+            "type": "carácter",
+            "example": "西边 (xībian) - Al oeste.",
+            "notes": "Punto cardinal."
         },
         {
             "id": "hsk1-char-0236",
-            "hanzi": "习",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "息",
+            "pinyin": "xī",
+            "translation": "Aliento / Noticia",
+            "type": "carácter",
+            "example": "休息 (xiūxi) - Descansar.",
+            "notes": "Sustantivo (en compuestos)."
         },
         {
             "id": "hsk1-char-0237",
-            "hanzi": "洗",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "习",
+            "pinyin": "xí",
+            "translation": "Practicar / Hábito",
+            "type": "carácter",
+            "example": "学习 (xuéxí) - Estudiar / Aprender.",
+            "notes": "Verbo (en compuestos)."
         },
         {
             "id": "hsk1-char-0238",
-            "hanzi": "喜",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "洗",
+            "pinyin": "xǐ",
+            "translation": "Lavar",
+            "type": "carácter",
+            "example": "洗手 (xǐ shǒu) - Lavarse las manos.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0239",
-            "hanzi": "系",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "喜",
+            "pinyin": "xǐ",
+            "translation": "Alegría / Gustar",
+            "type": "carácter",
+            "example": "喜欢 (xǐhuan) - Gustar.",
+            "notes": "Verbo (en compuestos)."
         },
         {
             "id": "hsk1-char-0240",
-            "hanzi": "下",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "系",
+            "pinyin": "xì",
+            "translation": "Sistema / Departamento",
+            "type": "carácter",
+            "example": "没关系 (méiguānxi) - No importa / No hay problema.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0241",
-            "hanzi": "先",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "下",
+            "pinyin": "xià",
+            "translation": "Debajo / (siguiente)",
+            "type": "carácter",
+            "example": "下面 (xiàmian) - Abajo.",
+            "notes": "Sustantivo localizador."
         },
         {
             "id": "hsk1-char-0242",
-            "hanzi": "现",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "先",
+            "pinyin": "xiān",
+            "translation": "Primero / Antes",
+            "type": "carácter",
+            "example": "你先走 (Nǐ xiān zǒu) - Tú ve primero.",
+            "notes": "Adverbio."
         },
         {
             "id": "hsk1-char-0243",
-            "hanzi": "想",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "现",
+            "pinyin": "xiàn",
+            "translation": "Ahora / Presente",
+            "type": "carácter",
+            "example": "现在 (xiànzài) - Ahora.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0244",
-            "hanzi": "小",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "想",
+            "pinyin": "xiǎng",
+            "translation": "Pensar / Querer / Desear",
+            "type": "carácter",
+            "example": "我想去 (Wǒ xiǎng qù) - Quiero ir.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0245",
-            "hanzi": "校",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "小",
+            "pinyin": "xiǎo",
+            "translation": "Pequeño",
+            "type": "carácter",
+            "example": "小孩 (xiǎo hái) - Niño pequeño.",
+            "notes": "Adjetivo."
         },
         {
             "id": "hsk1-char-0246",
-            "hanzi": "笑",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "校",
+            "pinyin": "xiào",
+            "translation": "Escuela",
+            "type": "carácter",
+            "example": "学校 (xuéxiào) - Escuela.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0247",
-            "hanzi": "些",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "笑",
+            "pinyin": "xiào",
+            "translation": "Reír / Sonreír",
+            "type": "carácter",
+            "example": "大笑 (dà xiào) - Reír a carcajadas.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0248",
-            "hanzi": "写",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "些",
+            "pinyin": "xiē",
+            "translation": "Algunos / Unos pocos",
+            "type": "carácter",
+            "example": "一些 (yīxiē) - Unos / Algunos.",
+            "notes": "Clasificador (plural)."
         },
         {
             "id": "hsk1-char-0249",
-            "hanzi": "谢",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "写",
+            "pinyin": "xiě",
+            "translation": "Escribir",
+            "type": "carácter",
+            "example": "写字 (xiě zì) - Escribir caracteres.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0250",
-            "hanzi": "新",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "谢",
+            "pinyin": "xiè",
+            "translation": "Agradecer",
+            "type": "carácter",
+            "example": "谢谢 (xièxie) - Gracias.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0251",
-            "hanzi": "星",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "新",
+            "pinyin": "xīn",
+            "translation": "Nuevo",
+            "type": "carácter",
+            "example": "新书 (xīn shū) - Libro nuevo.",
+            "notes": "Adjetivo."
         },
         {
             "id": "hsk1-char-0252",
-            "hanzi": "行",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "星",
+            "pinyin": "xīng",
+            "translation": "Estrella",
+            "type": "carácter",
+            "example": "星星 (xīngxing) - Estrella.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0253",
-            "hanzi": "兴",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "行",
+            "pinyin": "xíng",
+            "translation": "Estar bien / Poder",
+            "type": "carácter",
+            "example": "行！(Xíng!) - ¡Vale! / ¡De acuerdo!",
+            "notes": "Adjetivo / Verbo."
         },
         {
             "id": "hsk1-char-0254",
-            "hanzi": "休",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "兴",
+            "pinyin": "xīng",
+            "translation": "Interés / Prosperar",
+            "type": "carácter",
+            "example": "高兴 (gāoxìng) - Feliz.",
+            "notes": "Sustantivo / Verbo."
         },
         {
             "id": "hsk1-char-0255",
-            "hanzi": "学",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "休",
+            "pinyin": "xiū",
+            "translation": "Descansar / Parar",
+            "type": "carácter",
+            "example": "休息 (xiūxi) - Descansar.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0256",
-            "hanzi": "样",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "学",
+            "pinyin": "xué",
+            "translation": "Estudiar / Aprender",
+            "type": "carácter",
+            "example": "学习 (xuéxí) - Estudiar.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0257",
-            "hanzi": "要",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "样",
+            "pinyin": "yàng",
+            "translation": "Tipo / Forma / Manera",
+            "type": "carácter",
+            "example": "一样 (yīyàng) - Igual / Mismo.",
+            "notes": "Sustantivo / Clasificador."
         },
         {
             "id": "hsk1-char-0258",
-            "hanzi": "爷",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "要",
+            "pinyin": "yào",
+            "translation": "Querer / Ir a",
+            "type": "carácter",
+            "example": "我要喝水 (Wǒ yào hē shuǐ) - Quiero beber agua.",
+            "notes": "Verbo modal."
         },
         {
             "id": "hsk1-char-0259",
-            "hanzi": "也",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "爷",
+            "pinyin": "yé",
+            "translation": "Abuelo",
+            "type": "carácter",
+            "example": "爷爷 (yéye) - Abuelo (paterno).",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0260",
-            "hanzi": "页",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "也",
+            "pinyin": "yě",
+            "translation": "También",
+            "type": "carácter",
+            "example": "我也是学生 (Wǒ yě shì xuésheng) - Yo también soy estudiante.",
+            "notes": "Adverbio."
         },
         {
             "id": "hsk1-char-0261",
-            "hanzi": "一",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "页",
+            "pinyin": "yè",
+            "translation": "Página / Hoja",
+            "type": "carácter",
+            "example": "第一页 (dì-yī yè) - Primera página.",
+            "notes": "Sustantivo / Clasificador."
         },
         {
             "id": "hsk1-char-0262",
-            "hanzi": "衣",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "一",
+            "pinyin": "yī",
+            "translation": "Uno",
+            "type": "carácter",
+            "example": "一个 (yī gè) - Uno.",
+            "notes": "Número."
         },
         {
             "id": "hsk1-char-0263",
-            "hanzi": "医",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "衣",
+            "pinyin": "yī",
+            "translation": "Ropa",
+            "type": "carácter",
+            "example": "衣服 (yīfu) - Ropa.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0264",
-            "hanzi": "影",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "医",
+            "pinyin": "yī",
+            "translation": "Médico / Medicina",
+            "type": "carácter",
+            "example": "医生 (yīshēng) - Médico.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0265",
-            "hanzi": "用",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "影",
+            "pinyin": "yǐng",
+            "translation": "Sombra / Imagen / Película",
+            "type": "carácter",
+            "example": "电影 (diànyǐng) - Película.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0266",
-            "hanzi": "友",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "用",
+            "pinyin": "yòng",
+            "translation": "Usar / Utilizar",
+            "type": "carácter",
+            "example": "用电脑 (yòng diànnǎo) - Usar la computadora.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0267",
-            "hanzi": "有",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "友",
+            "pinyin": "yǒu",
+            "translation": "Amigo",
+            "type": "carácter",
+            "example": "朋友 (péngyou) - Amigo.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0268",
-            "hanzi": "右",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "有",
+            "pinyin": "yǒu",
+            "translation": "Tener / Haber",
+            "type": "carácter",
+            "example": "我有车 (Wǒ yǒu chē) - Tengo coche.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0269",
-            "hanzi": "雨",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "右",
+            "pinyin": "yòu",
+            "translation": "Derecha",
+            "type": "carácter",
+            "example": "右边 (yòubian) - A la derecha.",
+            "notes": "Sustantivo localizador."
         },
         {
             "id": "hsk1-char-0270",
-            "hanzi": "语",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "雨",
+            "pinyin": "yǔ",
+            "translation": "Lluvia",
+            "type": "carácter",
+            "example": "下雨 (xià yǔ) - Llover.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0271",
-            "hanzi": "元",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "语",
+            "pinyin": "yǔ",
+            "translation": "Idioma / Lengua",
+            "type": "carácter",
+            "example": "汉语 (Hànyǔ) - Chino (idioma).",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0272",
-            "hanzi": "远",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "元",
+            "pinyin": "yuán",
+            "translation": "Yuan (moneda)",
+            "type": "carácter",
+            "example": "十元 (shí yuán) - Diez yuanes.",
+            "notes": "Sustantivo (unidad monetaria)."
         },
         {
             "id": "hsk1-char-0273",
-            "hanzi": "院",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "远",
+            "pinyin": "yuǎn",
+            "translation": "Lejos",
+            "type": "carácter",
+            "example": "很远 (hěn yuǎn) - Muy lejos.",
+            "notes": "Adjetivo."
         },
         {
             "id": "hsk1-char-0274",
-            "hanzi": "月",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "院",
+            "pinyin": "yuàn",
+            "translation": "Patio / Institución",
+            "type": "carácter",
+            "example": "医院 (yīyuàn) - Hospital.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0275",
-            "hanzi": "再",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "月",
+            "pinyin": "yuè",
+            "translation": "Luna / Mes",
+            "type": "carácter",
+            "example": "一月 (yī yuè) - Enero.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0276",
-            "hanzi": "在",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "再",
+            "pinyin": "zài",
+            "translation": "Otra vez / De nuevo",
+            "type": "carácter",
+            "example": "再见 (zàijiàn) - Adiós.",
+            "notes": "Adverbio."
         },
         {
             "id": "hsk1-char-0277",
-            "hanzi": "早",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "在",
+            "pinyin": "zài",
+            "translation": "Estar en (lugar / tiempo)",
+            "type": "carácter",
+            "example": "我在家 (Wǒ zài jiā) - Estoy en casa.",
+            "notes": "Verbo / Preposición."
         },
         {
             "id": "hsk1-char-0278",
-            "hanzi": "怎",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "早",
+            "pinyin": "zǎo",
+            "translation": "Temprano / Mañana",
+            "type": "carácter",
+            "example": "早上 (zǎoshang) - Mañana.",
+            "notes": "Sustantivo / Adjetivo."
         },
         {
             "id": "hsk1-char-0279",
-            "hanzi": "站",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "怎",
+            "pinyin": "zěn",
+            "translation": "¿Cómo?",
+            "type": "carácter",
+            "example": "怎么 (zěnme) - ¿Cómo?",
+            "notes": "Pronombre interrogativo."
         },
         {
             "id": "hsk1-char-0280",
-            "hanzi": "找",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "站",
+            "pinyin": "zhàn",
+            "translation": "Estación / Pararse",
+            "type": "carácter",
+            "example": "火车站 (huǒchē zhàn) - Estación de tren.",
+            "notes": "Sustantivo / Verbo."
         },
         {
             "id": "hsk1-char-0281",
-            "hanzi": "这",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "找",
+            "pinyin": "zhǎo",
+            "translation": "Buscar",
+            "type": "carácter",
+            "example": "找人 (zhǎo rén) - Buscar a alguien.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0282",
-            "hanzi": "着",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "这",
+            "pinyin": "zhè",
+            "translation": "Este / Esta",
+            "type": "carácter",
+            "example": "这个人 (zhè gè rén) - Esta persona.",
+            "notes": "Pronombre demostrativo."
         },
         {
             "id": "hsk1-char-0283",
-            "hanzi": "真",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "着",
+            "pinyin": "zhe",
+            "translation": "(Partícula de acción continua)",
+            "type": "carácter",
+            "example": "看着 (kànzhe) - Mirando.",
+            "notes": "Partícula aspectual."
         },
         {
             "id": "hsk1-char-0284",
-            "hanzi": "正",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "真",
+            "pinyin": "zhēn",
+            "translation": "Real / Verdadero",
+            "type": "carácter",
+            "example": "真的吗？(Zhēn de ma?) - ¿De verdad?",
+            "notes": "Adjetivo / Adverbio."
         },
         {
             "id": "hsk1-char-0285",
-            "hanzi": "知",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "正",
+            "pinyin": "zhèng",
+            "translation": "Recto / Justo / Precisamente",
+            "type": "carácter",
+            "example": "正在 (zhèngzài) - En proceso de.",
+            "notes": "Adjetivo / Adverbio."
         },
         {
             "id": "hsk1-char-0286",
-            "hanzi": "中",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "知",
+            "pinyin": "zhī",
+            "translation": "Saber",
+            "type": "carácter",
+            "example": "知道 (zhīdào) - Saber.",
+            "notes": "Verbo (en compuestos)."
         },
         {
             "id": "hsk1-char-0287",
-            "hanzi": "重",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "中",
+            "pinyin": "zhōng",
+            "translation": "Centro / Medio",
+            "type": "carácter",
+            "example": "中国 (Zhōngguó) - China.",
+            "notes": "Sustantivo localizador."
         },
         {
             "id": "hsk1-char-0288",
-            "hanzi": "住",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "重",
+            "pinyin": "zhòng",
+            "translation": "Pesado",
+            "type": "carácter",
+            "example": "很重 (hěn zhòng) - Muy pesado.",
+            "notes": "Adjetivo."
         },
         {
             "id": "hsk1-char-0289",
-            "hanzi": "准",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "住",
+            "pinyin": "zhù",
+            "translation": "Vivir / Residir",
+            "type": "carácter",
+            "example": "我住在北京 (Wǒ zhù zài Běijīng) - Vivo en Pekín.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0290",
-            "hanzi": "桌",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "准",
+            "pinyin": "zhǔn",
+            "translation": "Permitir / Preciso",
+            "type": "carácter",
+            "example": "准备 (zhǔnbèi) - Preparar.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0291",
-            "hanzi": "子",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "桌",
+            "pinyin": "zhuō",
+            "translation": "Mesa",
+            "type": "carácter",
+            "example": "桌子 (zhuōzi) - Mesa.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0292",
-            "hanzi": "字",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "子",
+            "pinyin": "zi",
+            "translation": "Semilla / Persona / Sufijo",
+            "type": "carácter",
+            "example": "儿子 (érzi) - Hijo.",
+            "notes": "Sustantivo / Sufijo."
         },
         {
             "id": "hsk1-char-0293",
-            "hanzi": "走",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "字",
+            "pinyin": "zì",
+            "translation": "Carácter / Letra / Escritura",
+            "type": "carácter",
+            "example": "写字 (xiě zì) - Escribir caracteres.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0294",
-            "hanzi": "最",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "走",
+            "pinyin": "zǒu",
+            "translation": "Caminar / Irse",
+            "type": "carácter",
+            "example": "走路 (zǒulù) - Caminar.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0295",
-            "hanzi": "昨",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "最",
+            "pinyin": "zuì",
+            "translation": "Más (superlativo)",
+            "type": "carácter",
+            "example": "最好 (zuì hǎo) - El mejor.",
+            "notes": "Adverbio."
         },
         {
             "id": "hsk1-char-0296",
-            "hanzi": "左",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "昨",
+            "pinyin": "zuó",
+            "translation": "Ayer (prefijo)",
+            "type": "carácter",
+            "example": "昨天 (zuótiān) - Ayer.",
+            "notes": "Sustantivo."
         },
         {
             "id": "hsk1-char-0297",
-            "hanzi": "作",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "左",
+            "pinyin": "zuǒ",
+            "translation": "Izquierda",
+            "type": "carácter",
+            "example": "左边 (zuǒbian) - A la izquierda.",
+            "notes": "Sustantivo localizador."
         },
         {
             "id": "hsk1-char-0298",
-            "hanzi": "坐",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "作",
+            "pinyin": "zuò",
+            "translation": "Hacer / Crear",
+            "type": "carácter",
+            "example": "工作 (gōngzuò) - Trabajo / Trabajar.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0299",
-            "hanzi": "做",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "坐",
+            "pinyin": "zuò",
+            "translation": "Sentarse / Viajar en",
+            "type": "carácter",
+            "example": "坐下 (zuò xià) - Siéntate.",
+            "notes": "Verbo."
         },
         {
             "id": "hsk1-char-0300",
-            "hanzi": "",
-            "pinyin": "",
-            "translation": "",
-            "type": "",
-            "notes": null
+            "hanzi": "做",
+            "pinyin": "zuò",
+            "translation": "Hacer / Realizar",
+            "type": "carácter",
+            "example": "做饭 (zuòfàn) - Cocinar.",
+            "notes": "Verbo."
         }
     ],
     "words": [
@@ -8295,6 +8595,6 @@
                 "做"
             ],
             "notes": null
-        }   
-    ]   
+        }
+    ]
 }
