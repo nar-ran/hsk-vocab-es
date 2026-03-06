@@ -1,0 +1,136 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Esquema HSK 3.0 Spanish",
+    "type": "object",
+    "required": [
+        "schema",
+        "version",
+        "level",
+        "language",
+        "counts",
+        "characters",
+        "words"
+    ],
+    "properties": {
+        "schema": {
+            "type": "string"
+        },
+        "version": {
+            "type": "string"
+        },
+        "level": {
+            "type": "integer"
+        },
+        "language": {
+            "type": "string"
+        },
+        "source": {
+            "type": "string"
+        },
+        "generated_at": {
+            "type": "string"
+        },
+        "counts": {
+            "type": "object",
+            "properties": {
+                "words": {
+                    "type": "integer"
+                },
+                "characters": {
+                    "type": "integer"
+                }
+            }
+        },
+        "characters": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "required": [
+                    "id",
+                    "hanzi",
+                    "pinyin",
+                    "translation",
+                    "type"
+                ],
+                "properties": {
+                    "id": {
+                        "type": "string"
+                    },
+                    "hanzi": {
+                        "type": "string"
+                    },
+                    "pinyin": {
+                        "type": "string"
+                    },
+                    "translation": {
+                        "type": "string"
+                    },
+                    "type": {
+                        "type": "string"
+                    },
+                    "example": {
+                        "type": [
+                            "string",
+                            "null"
+                        ]
+                    },
+                    "notes": {
+                        "type": [
+                            "string",
+                            "null"
+                        ]
+                    }
+                }
+            }
+        },
+        "words": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "required": [
+                    "id",
+                    "hanzi",
+                    "pinyin",
+                    "translation",
+                    "type",
+                    "characters"
+                ],
+                "properties": {
+                    "id": {
+                        "type": "string"
+                    },
+                    "hanzi": {
+                        "type": "string"
+                    },
+                    "pinyin": {
+                        "type": "string"
+                    },
+                    "translation": {
+                        "type": "string"
+                    },
+                    "type": {
+                        "type": "string"
+                    },
+                    "characters": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
+                    },
+                    "example": {
+                        "type": [
+                            "string",
+                            "null"
+                        ]
+                    },
+                    "notes": {
+                        "type": [
+                            "string",
+                            "null"
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}
