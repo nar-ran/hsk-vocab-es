@@ -1,4 +1,8 @@
-# HSK Vocabulary 3.0 — Spanish 🇪🇸
+# HSK Vocabulary 3.0 — Spanish 🇪🇸 ![Status](https://img.shields.io/badge/Status-In_Progress-orange)
+
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![HSK 1](https://img.shields.io/badge/HSK_1-brightgreen?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 Open source JSON library of the official HSK 3.0 vocabulary translated into Spanish.
 
@@ -15,7 +19,7 @@ This project provides a structured, developer-friendly dataset of HSK vocabulary
   * [Words](#-words)
 * [Repository Structure](#-repository-structure)
 * [Purpose](#-purpose)
-* [Usage](#-usage)
+* [Usage](#-example-usage)
 * [Contributing](#-contributing)
 * [License](#-license)
 * [Status](#-status)
