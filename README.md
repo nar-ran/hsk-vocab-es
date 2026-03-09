@@ -47,8 +47,8 @@ Each level file follows this structure:
   "version": "3.0",
   "level": 1,
   "language": "es",
-  "source": "CLEC / HSK 3.0 official vocabulary",
-  "generated_at": "2026-01-01T00:00:00Z",
+  "source": "HSK 3.0 Official Vocabulary List",
+  "generated_at": "2026",
 
   "counts": {
     "words": 500,
@@ -109,6 +109,7 @@ data/
 schema.json
 
 README.md
+CONTRIBUTING.md
 LICENSE
 ```
 
