@@ -29,14 +29,13 @@ This project provides a structured, developer-friendly dataset of HSK vocabulary
 
 ## ✨ Features
 
-* Based on official HSK 3.0 vocabulary lists
-* Spanish translations
-* Characters and words separated
-* Stable unique IDs
-* Example sentences included
-* Additional notes for context
-* JSON format
-* Open source (MIT license)
+* Based on official HSK 3.0 vocabulary lists.
+* **Multi-word support:** Translations stored as arrays for better precision.
+* **Structured Examples:** Hanzi, Pinyin, and Spanish separated into objects.
+* Stable unique IDs for every entry.
+* Characters and words separated.
+* JSON Schema included for data validation.
+* Open source (MIT license).
 * Easy integration into any programming language
 
 ---
@@ -76,9 +75,13 @@ Example:
   "id": "hsk1-char-0001",
   "hanzi": "爱",
   "pinyin": "ài",
-  "translation": "amar",
+  "translation": ["amar", "querer"],
   "type": "carácter",
-  "example": "我爱我的家 (Wǒ ài wǒ de jiā) - Amo mi hogar.",
+  "example": {
+    "hanzi": "我爱我的家",
+    "pinyin": "Wǒ ài wǒ de jiā",
+    "translation": "Amo mi hogar."
+  },
   "notes": "Puede funcionar como verbo o sustantivo."
 }
 ```
@@ -94,10 +97,14 @@ Example:
   "id": "hsk1-word-0001",
   "hanzi": "爱好",
   "pinyin": "àihào",
-  "translation": "hobby",
+  "translation": ["hobby", "afición", "interés"],
   "type": "palabra",
   "characters": ["爱", "好"],
-  "example": "我的爱好是音乐 (Wǒ de àihào shì yīnyuè) - Mi hobby es la música.",
+  "example": {
+    "hanzi": "我的爱好 es 音乐",
+    "pinyin": "Wǒ de àihào shì yīnyuè",
+    "translation": "Mi hobby es la música."
+  },
   "notes": "Se usa para hablar de intereses personales."
 }
 ```
@@ -134,11 +141,11 @@ This project exists to provide a high-quality, open, and structured HSK vocabula
 
 It is especially useful for:
 
-* app developers
-* students
-* teachers
-* researchers
-* language learning tools
+* App developers
+* Students
+* Teachers
+* Researchers
+* Language learning tools
 
 ---
 
@@ -149,8 +156,12 @@ JavaScript:
 ```javascript
 import vocab from "./data/hsk1.json";
 
-console.log(vocab.words[0].translation);
-console.log(vocab.characters[0].hanzi);
+// Accessing translations (Array)
+console.log(vocab.words[0].translation.join(", ")); 
+
+// Accessing structured examples
+const example = vocab.words[0].example;
+console.log(`${example.hanzi} - ${example.translation}`);
 ```
 
 Python:
@@ -161,8 +172,11 @@ import json
 with open("data/hsk1.json", encoding="utf-8") as f:
     data = json.load(f)
 
-print(data["words"][0]["translation"])
-print(data["characters"][0]["hanzi"])
+# Get the first translation of a word
+print(data["words"][0]["translation"][0])
+
+# Get example pinyin
+print(data["words"][0]["example"]["pinyin"])
 ```
 
 ---
@@ -193,8 +207,8 @@ This project aims to solve that by providing a structured dataset designed for m
 
 ## 🚀 Status
 
-HSK 1: Completed structure
-Translations and examples: In progress
+HSK 1: Completed structure & Data.
+HSK 2-9: In progress.
 
 Future updates will include all HSK 3.0 levels.
 
