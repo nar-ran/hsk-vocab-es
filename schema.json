@@ -63,15 +63,34 @@
                         "type": "string"
                     },
                     "translation": {
-                        "type": "string"
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
                     },
                     "type": {
                         "type": "string"
                     },
                     "example": {
                         "type": [
-                            "string",
+                            "object",
                             "null"
+                        ],
+                        "properties": {
+                            "hanzi": {
+                                "type": "string"
+                            },
+                            "pinyin": {
+                                "type": "string"
+                            },
+                            "translation": {
+                                "type": "string"
+                            }
+                        },
+                        "required": [
+                            "hanzi",
+                            "pinyin",
+                            "translation"
                         ]
                     },
                     "notes": {
@@ -106,7 +125,10 @@
                         "type": "string"
                     },
                     "translation": {
-                        "type": "string"
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
                     },
                     "type": {
                         "type": "string"
@@ -119,8 +141,24 @@
                     },
                     "example": {
                         "type": [
-                            "string",
+                            "object",
                             "null"
+                        ],
+                        "properties": {
+                            "hanzi": {
+                                "type": "string"
+                            },
+                            "pinyin": {
+                                "type": "string"
+                            },
+                            "translation": {
+                                "type": "string"
+                            }
+                        },
+                        "required": [
+                            "hanzi",
+                            "pinyin",
+                            "translation"
                         ]
                     },
                     "notes": {
