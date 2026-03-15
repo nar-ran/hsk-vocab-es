@@ -1,4 +1,4 @@
-# HSK Vocabulary 3.0 — Spanish 🇪🇸 ![Status](https://img.shields.io/badge/Status-In_Progress-orange)
+# HSK Vocabulary 3.0 — Spanish 🇪🇸 ![Status](https://img.shields.io/badge/Status-HSK1_Completed-green)
 
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![HSK 1](https://img.shields.io/badge/HSK_1-brightgreen?style=for-the-badge)
