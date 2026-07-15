@@ -1,7 +1,8 @@
-# HSK Vocabulary 3.0 — Spanish 🇪🇸 ![Status](https://img.shields.io/badge/Status-HSK1_Completed-green)
+# HSK Vocabulary 3.0 — Spanish 🇪🇸 ![Status](https://img.shields.io/badge/Status-HSK1_&_HSK2_Completed-green)
 
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![HSK 1](https://img.shields.io/badge/HSK_1-brightgreen?style=for-the-badge)
+![HSK 2](https://img.shields.io/badge/HSK_2-brightgreen?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 Open source JSON library of the official HSK 3.0 vocabulary translated into Spanish.
@@ -116,6 +117,7 @@ Example:
 ```
 data/
   hsk1.json
+  hsk2.json
 
 schema.json
 
@@ -131,6 +133,7 @@ data/
   hsk1.json
   hsk2.json
   hsk3.json
+  hsk4.json
 ```
 
 ---
@@ -207,8 +210,8 @@ This project aims to solve that by providing a structured dataset designed for m
 
 ## 🚀 Status
 
-HSK 1: Completed structure & Data.
-HSK 2-9: In progress.
+HSK 1-2: Completed structure & Data.
+HSK 3-9: In progress.
 
 Future updates will include all HSK 3.0 levels.
 
