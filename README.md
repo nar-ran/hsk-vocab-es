@@ -212,7 +212,7 @@ This project aims to solve that by providing a structured dataset designed for m
 ## 🚀 Status
 
 HSK 1-3: Completed structure, translations, examples & notes.
-HSK 4-9: Completed structure & translations (examples & notes in progress).
+HSK 4-9: Completed structure, translations & notes (examples in progress).
 
 | File | Band / Level | Words | Characters |
 |---|---|---:|---:|
