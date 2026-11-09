@@ -21,6 +21,9 @@
         "level": {
             "type": "integer"
         },
+        "band": {
+            "type": "string"
+        },
         "language": {
             "type": "string"
         },
